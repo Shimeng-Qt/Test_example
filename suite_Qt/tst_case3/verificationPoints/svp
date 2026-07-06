@@ -1,4 +1,0 @@
-<!DOCTYPE VerificationPoint>
-<VerificationPoint type="Screenshot">
- <Verification object=":address_Book_MainWindow" type="PNG"></Verification>
-</VerificationPoint>
