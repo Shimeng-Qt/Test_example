@@ -1,0 +1,11 @@
+{
+    "schema_version": 1,
+    "step_sequence": [
+        {"step": "dfcbf2eb-206e-46f4-b941-cbb0bab63382"},
+        {"step": "b87ef8f0-a351-476c-b786-4bb1fa330c25"},
+        {"step": "041e34df-e832-4ede-a6ac-e217d65aadd0"},
+        {"step": "cb2a3329-f36b-41c4-85ff-ac4d5c34448c"},
+        {"step": "153c51bf-cb57-4f4d-a68b-7c15afc43172"}
+    ],
+    "model": "x-testsuite:/shared/models/manage_contacts.mbtmodel"
+}
