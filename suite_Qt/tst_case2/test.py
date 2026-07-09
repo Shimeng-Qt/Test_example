@@ -32,4 +32,11 @@ def main():
 
     test.vp("VP5")
 
+    test.vp("VP7")
+
+    vp()
+    
+def vp():
     test.vp("VP6")
+
+    
